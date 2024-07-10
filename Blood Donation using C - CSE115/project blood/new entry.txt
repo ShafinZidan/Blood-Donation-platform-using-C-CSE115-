@@ -1,0 +1,13 @@
+The file is in the format:-
+
+Blood Group:
+Name:
+Number:
+Address:
+
+
+O+
+Shafin Ahmed Zidan
+01924274840
+hello,from,the other side
+
